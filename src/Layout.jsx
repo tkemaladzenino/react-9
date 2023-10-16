@@ -8,7 +8,7 @@ function Layout() {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/main">Main</Link>
                     </li>
                     <li>
                         <Link to="/about">About </Link>
